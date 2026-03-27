@@ -1,0 +1,27 @@
+# ゲームデータ（著作物）
+translated_csv/
+backup_text/
+batches/
+csv_prompts/
+extracted/
+mod_content/
+UEExtractor/
+repak/
+
+# 生成物
+translated.csv
+*.pak
+*.locres
+*.locmeta
+*.locmeta.new
+*_clean.csv
+test_prompt.txt
+
+# ツール
+*.zip
+
+# 一時ファイル
+__pycache__/
+*.pyc
+translate.py
+backup_*/
